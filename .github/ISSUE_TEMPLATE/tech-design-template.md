@@ -7,7 +7,7 @@ assignees: tienyuan
 
 ---
 
-## Tech Design
+## Proposed Solution
 Outline in enough detail for a team member to understand, and implement. 
 
 Please consider adding:
@@ -17,10 +17,11 @@ Please consider adding:
 - performance choices
 - maintenance choices
 - flowcharts, pictures :-)
+
 ---
 
-## Alternatives
-What other designs have been considered? There are tradeoffs to choosing any path. Attempt to identify them here.
+## Alternatives/Considerations
+What other options have been considered? There are tradeoffs to choosing any path. Attempt to identify them here.
 
 Please consider:
 - implementation cost, both in term of code size, complexity and time
